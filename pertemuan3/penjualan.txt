@@ -1,0 +1,7 @@
+===== LAPORAN PENJUALAN TOKO =====
+Nama          Jumlah     Harga          Total
+Sienta             2    100000         200000
+GSX                5      8000          40000
+Yamaha             1     80000          80000
+
+Total Pendapatan: 320000
